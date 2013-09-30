@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FoundWorkingCopyPaths</key>
+	<array>
+		<string>/Users/Jeff/Drexel/MET Lab/MRP</string>
+	</array>
+	<key>LastWorkingCopyScanDate</key>
+	<date>2013-09-09T17:20:43Z</date>
+	<key>MissingFilePaths</key>
+	<array>
+		<string>/Users/Jeff/Drexel/MET Lab/MRP/MRP_Connect/OpenFrameworks007iPhone/libs/openFrameworksCompiled/project/iphone/bin/libofxiPhone_iphoneos_Debug.a</string>
+	</array>
+	<key>Version</key>
+	<integer>4</integer>
+</dict>
+</plist>
